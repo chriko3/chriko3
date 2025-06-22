@@ -21,11 +21,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chriko3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=graywhite&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chriko3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/chriko3/chriko3/output/snake.svg" alt="Snake animation" />
 
 ###
