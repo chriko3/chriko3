@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">I work with</h2>
+<h2 align="left">My skills</h2>
 
 ###
 
