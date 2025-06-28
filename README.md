@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💙 I love programming!<br>👉🏻 Check out my portfolio: www.portfolio.com</p>
+<p align="left">💙 I love programming!<br>👉🏻 Check out my portfolio: https://chriko3.github.io/</p>
 
 ###
 
