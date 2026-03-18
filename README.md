@@ -26,7 +26,7 @@
 
 ###
 
-<h3 align="left">Software Development</h3>
+<h3 align="left">Software & Hardware Development</h3>
 
 ###
 
