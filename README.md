@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💙 I love programming!<br>👉🏻 Portfolio soon!/</p>
+<p align="left">💙 I love programming!<br>👉🏻 Portfolio soon!</p>
 
 ###
 
