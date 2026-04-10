@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💙 I love programming!<br>👉🏻 Check out my portfolio: https://chriko3.github.io/</p>
+<p align="left">💙 I love programming!<br>👉🏻 Portfolio soon!/</p>
 
 ###
 
@@ -69,13 +69,3 @@
 <p align="left">💻 I've been coding since 2016<br>📐 I'm currently learning CAD<br>🎯 My goal: To work as a software developer<br>🕹️ Ask me about: Retro games</p>
 
 ###
-
-<h2 align="left">How to reach me</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/christoph-kohout/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" width="40" alt="linkedin logo" />
-  </a>
-</div>
