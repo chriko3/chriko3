@@ -2,34 +2,46 @@
 
 <p align="left">
 💙 I love programming!<br>
-👉🏻 Portfolio soon!
+👉🏻 Portfolio coming soon!
 </p>
 
 ---
 
-<h2 align="left">My skills</h2>
+<h2 align="left">🧠 About me</h2>
 
-<h3 align="left">Web Development</h3>
+<p align="left">
+💻 I've been coding since 2016<br>
+📐 Currently learning CAD & 3D design<br>
+🎯 Goal: Become a professional software developer<br>
+🕹️ Ask me about retro games & hardware projects
+</p>
+
+---
+
+<h2 align="left">🛠️ Tech Stack</h2>
+
+<h3 align="left">🌐 Web Development</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5" style="margin-right:12px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3" style="margin-right:12px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" style="margin-right:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" title="AngularJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TypeScript" style="margin-right:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" title="Angular" style="margin-right:12px;" />
 </div>
 
 ---
 
-<h3 align="left">Software & Hardware Development</h3>
+<h3 align="left">⚙️ Software & Hardware</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" title="C#" style="margin-right:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" title="C++" style="margin-right:12px;" />
 </div>
 
 ---
 
-<h3 align="left">Database</h3>
+<h3 align="left">🗄️ Databases</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="40" title="MariaDB" style="margin-right:12px;" />
@@ -38,7 +50,7 @@
 
 ---
 
-<h3 align="left">Systems</h3>
+<h3 align="left">💻 Systems</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" title="Windows" style="margin-right:12px;" />
@@ -47,11 +59,10 @@
 
 ---
 
-<h2 align="left">About me</h2>
+<h2 align="left">📌 Focus</h2>
 
 <p align="left">
-💻 I've been coding since 2016<br>
-📐 I'm currently learning CAD<br>
-🎯 My goal: To work as a software developer<br>
-🕹️ Ask me about: Retro games
+🚀 Building web applications & interactive projects<br>
+🔧 Combining software + hardware (ESP32, IoT, CAD)<br>
+📦 Learning clean architecture & scalable systems
 </p>
