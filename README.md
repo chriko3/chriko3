@@ -2,7 +2,6 @@
 
 <p align="left">
 💙 I love programming!<br>
-👉🏻 Portfolio coming soon!
 </p>
 
 ---
