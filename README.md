@@ -1,7 +1,7 @@
 <h1 align="left">Hi there, I am Christoph 👋🏻</h1>
 
 <p align="left">
-💙 I love programming!<br>
+💚 I love programming!<br>
 </p>
 
 
