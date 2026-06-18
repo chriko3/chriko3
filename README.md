@@ -4,7 +4,6 @@
 💚 I love programming!<br>
 </p>
 
-
 <p align="start">
   <a href="https://github.com/chriko3">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chriko3&cache_seconds=7200&layout=compact&theme=vue&border_radius=10" alt="chriko3's GitHub Stats" />
@@ -14,7 +13,6 @@
 ---
 
 <h2 align="left">🧠 About me</h2>
-
 <p align="left">
 💻 I've been coding since 2016<br>
 📐 Currently learning CAD & 3D design<br>
