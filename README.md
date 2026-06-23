@@ -16,7 +16,6 @@
 <p align="left">
 💻 I've been coding since 2016<br>
 📐 Currently learning CAD & 3D design<br>
-🎯 Goal: Become a professional software developer<br>
 🕹️ Ask me about retro games & hardware projects
 </p>
 
