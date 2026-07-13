@@ -1,7 +1,9 @@
 <h1 align="left">Hi there, I am Christoph 👋🏻</h1>
 
 <p align="left">
-💚 I love programming!<br>
+  💚 <b>I love programming!</b><br>
+  🚀 Check out my portfolio:<br>
+  🌐 <a href="https://christoph-kohout.at/" target="_blank">christoph-kohout.at</a>
 </p>
 
 <p align="start">
